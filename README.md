@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ste1nerr&label=Profile%20views&color=0e75b6&style=flat" alt="ste1nerr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ste1nerr" alt="ste1nerr" /></a> </p>
-
 - 🔭 I’m currently working on [POS-system](https://github.com/ste1nerr/POS-system)
 
 - 🌱 I’m currently learning **React, Express**
